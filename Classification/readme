@@ -1,0 +1,11 @@
+la classification consiste à analyser les données sur le dossier (data) et à les organiser en catégories en fonction du contenu des fichiers
+cela rend plus facile à detecter les doublons et à trouver l'objet dans un ce grand ensemble d'objets avec le transport de la sémantique d'un objet
+le nombre de classes est 6.
+pour la 1ere classe on trouve 400 exemples
+pour la 2eme classe on trouve 379 exemples
+pour la 3eme classe on trouve 400 exemples
+pour la 4eme classe on trouve 400 exemples
+pour la 5eme classe on trouve 400 exemples
+pour la 5eme classe on trouve 400 exemples
+pour le nombre d'exemples totale : 2379
+ainsi que 1594 images belonging to 6 classes
