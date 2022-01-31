@@ -15,3 +15,5 @@ Passer l’argument input_shape à la première couche. ll doit être transmis s
 
  en sortie" j'ai une matrice 2D
  en entrée elle attend un tableau 1D
+ la zone sous la courbe ROC est de 0,240 pour les données d’apprentissage et de 0,150 pour les données de test.
+  Ces valeurs indiquent que l’arbre de classification est un classificateur raisonnable, dans la plupart des applications
