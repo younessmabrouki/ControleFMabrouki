@@ -9,3 +9,9 @@ pour la 5eme classe on trouve 400 exemples
 pour la 5eme classe on trouve 400 exemples
 pour le nombre d'exemples totale : 2379
 ainsi que 1594 images belonging to 6 classes
+Passer l’argument input_shape à la première couche. ll doit être transmis sous forme de tuple.
+ La dimension du lot n’est pas incluse dans input_shape
+ Le modèle séquentiel est une pile linéaire de couches
+
+ en sortie" j'ai une matrice 2D
+ en entrée elle attend un tableau 1D

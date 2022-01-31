@@ -54,7 +54,7 @@ def create_tfidf(x_train, x_test):
   return x_train_tfidf, x_test_tfidf, tfidf
 
 def main():
-  data = load_data("data/films.csv")
+  data = load_data("data/text.csv")
   X, Y = splitDataToXAndY(data)
   X, Y = encodeData(X, Y)
   x_train, x_test, y_train, y_test = splitDataToTrainAndTest(X, Y)
